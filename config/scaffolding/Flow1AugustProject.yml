@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: Flow1AugustProject
+  gitServerName: GithubOrigin
+  gitUrl: https://github.com/Munatri/Flow1AugustProject
+  gitUsername: Munatri
+  gitBranch: main
